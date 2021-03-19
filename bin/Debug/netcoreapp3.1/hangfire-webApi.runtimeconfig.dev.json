@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\harit\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\harit\\.nuget\\packages"
+    ]
+  }
+}
